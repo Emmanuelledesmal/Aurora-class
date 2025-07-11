@@ -3,11 +3,11 @@
   <info>
     <name>Gunlance Wielder (5e Class)</name>
     <update version="1.0.0">
-      <file name="gunlance-wielder.index" url="https://tu-repositorio-o-servidor/gunlance-wielder.index" />
+      <file name="gunlance-wielder.index" url="https://raw.githubusercontent.com/Emmanuelledesmal/gunlance-wielder/main/index.xml" />
     </update>
   </info>
   <files>
-    <file name="class-gunlance-wielder.xml" url="https://tu-repositorio-o-servidor/class-gunlance-wielder.xml" />
-    <file name="source.xml" url="https://tu-repositorio-o-servidor/source.xml" />
+    <file name="class-gunlance-wielder.xml" url="https://raw.githubusercontent.com/Emmanuelledesmal/gunlance-wielder/main/class-gunlance-wielder.xml" />
+    <file name="source.xml" url="https://raw.githubusercontent.com/Emmanuelledesmal/gunlance-wielder/main/source.xml" />
   </files>
 </index>
