@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>Aurora Custom Classes</name>
+    <description>Clases caseras y contenido personalizado para Aurora Builder</description>
+    <author url="https://github.com/Emmanuelledesmal">Emmanuelledesmal</author>
+    <update version="1.0.0">
+      <file name="aurora-class.index" url="https://raw.githubusercontent.com/Emmanuelledesmal/Aurora-class/main/aurora-class.index" />
+    </update>
+  </info>
+  <files>
+    <file name="gunlance-wielder.index" url="https://raw.githubusercontent.com/Emmanuelledesmal/Aurora-class/main/gunlance-wielder.index" />
+  </files>
+</index>
