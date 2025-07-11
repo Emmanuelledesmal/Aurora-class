@@ -1,0 +1,46 @@
+<elements>
+  <class>
+    <name>Gunlance Wielder</name>
+    <source>Gunlance Wielder (5e Class)</source>
+    <hd>1d10</hd>
+    <proficiency>
+      <armor>light, medium, shields</armor>
+      <weapons>simple, martial</weapons>
+      <tools>smith's tools</tools>
+      <saving-throws>dexterity, constitution</saving-throws>
+      <skills choose="2">acrobatics, athletics, intimidation, perception, survival</skills>
+    </proficiency>
+    <equipment>
+      <default>
+        <item>chain mail</item>
+        <item>gunlance</item>
+        <item>explosive shells (10)</item>
+        <item>dungeoneer's pack</item>
+      </default>
+    </equipment>
+    <autolevels>
+      <level>1</level><level>2</level><level>3</level><level>4</level><level>5</level>
+      <level>6</level><level>7</level><level>8</level><level>9</level><level>10</level>
+      <level>11</level><level>12</level><level>13</level><level>14</level><level>15</level>
+      <level>16</level><level>17</level><level>18</level><level>19</level><level>20</level>
+    </autolevels>
+    <feature name="Gunlance Proficiency" level="1">
+      <text>You are proficient with the Gunlance, a unique martial weapon with explosive capabilities. It uses shells to deal extra damage.</text>
+    </feature>
+    <feature name="Shell Gauge" level="1">
+      <text>You gain a gauge with explosive charges used to fuel abilities. Regain all charges after a long rest.</text>
+    </feature>
+    <feature name="Wyvern's Fire" level="3">
+      <text>Unleash a powerful blast: 4d10 fire damage in a 30-foot line. DEX save for half. Usable once per long rest.</text>
+    </feature>
+    <feature name="Artillery Style" level="3">
+      <text>Choose a shelling style: Normal (balanced), Long (range-focused), or Wide (AoE-focused).</text>
+    </feature>
+    <feature name="Advanced Shelling" level="5">
+      <text>Your Gunlance now deals an extra die of damage when using explosive features.</text>
+    </feature>
+    <feature name="True Wyvern’s Fire" level="17">
+      <text>Wyvern's Fire can be used twice per long rest. Damage increases to 6d10 fire.</text>
+    </feature>
+  </class>
+</elements>
